@@ -1,0 +1,23 @@
+{
+  "name": "liquidclii_v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api/server.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [],
+  "author": "mf7cli <mf7cli120@icloud.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "@discordjs/voice": "^0.8.0",
+    "config": "^3.3.7",
+    "discord.js": "^13.6.0",
+    "fs": "^0.0.1-security",
+    "libsodium-wrappers": "^0.7.9",
+    "node-schedule": "^2.1.0",
+    "rss-parser": "^3.12.0",
+    "tweetnacl": "^1.0.3"
+  }
+}
