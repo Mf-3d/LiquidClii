@@ -1,0 +1,20 @@
+{
+    "gadget": {
+        "iPadAir4":{"price": 6800},
+        "iPad8": {"price": 3500},
+        "iPhone13": {"price": 12500},
+        "iPhone13Pro": {"price": 14800},
+        "XperiaXZ1": {"price": 800},
+        "iPhone11": {"price": 5000},
+        "owner": "LiquidClii"
+    },
+    "car": {
+        "NissanNOTE": {"price": 400000},
+        "LexusLX": {"price": 1000000},
+        "owner": "LiquidClii"
+    },
+    "file": {
+        "ZIP": {"price": 1000000},
+        "owner": "mf7cli"
+    }
+}
